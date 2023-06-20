@@ -60,3 +60,31 @@ class Counter extends React.Component {
   }
 }
 ```
+## Exercise
+
+Exercise: Creating a Product List Component
+
+In this exercise, you will create a ProductList component that displays a list of products. The component will be implemented as a class component and will receive an array of products as a property (prop). It will render each product as a separate component.
+
+Instructions:
+
+Set up a new React project by following the necessary steps (installing dependencies, creating project files, etc.). You can use create-react-app or any other preferred method.
+
+Inside your project, create a new file called ProductList.js and open it in your code editor.
+
+In ProductList.js, import React.
+
+Define the ProductList class component that receives an array of products as a prop.
+jsx
+
+Create a new file called Product.js in the same directory.
+
+In Product.js, import React.
+
+Define the Product functional component that receives a product object as a prop.
+
+In your main App.js or any other component, import and use the ProductList component by passing an array of products as a property.
+
+Finally, run your React project and verify that the ProductList component renders each product as a separate component and displays their details
+
+
