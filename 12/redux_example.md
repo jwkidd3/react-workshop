@@ -1,7 +1,9 @@
 Set up a new React project or use an existing one. Make sure you have Node.js and npm (Node Package Manager) installed.
 
 Install the necessary dependencies by running the following command in your project directory:
+```
 npm install react react-dom react-redux redux
+```
 
 Create a new file called index.js and add the following code:
 import React from 'react';
