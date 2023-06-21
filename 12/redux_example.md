@@ -6,6 +6,7 @@ npm install react react-dom react-redux redux
 ```
 
 Create a new file called index.js and add the following code:
+```
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore } from 'redux';
@@ -62,8 +63,10 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 );
+```
 
 Create an HTML file, such as index.html, in the same directory and add the following code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,6 +79,7 @@ Create an HTML file, such as index.html, in the same directory and add the follo
   <script src="index.js"></script>
 </body>
 </html>
+```
 
 Open the HTML file in a web browser, and you should see a counter with buttons to increment and decrement the count value. The state of the counter is managed by Redux.
 
