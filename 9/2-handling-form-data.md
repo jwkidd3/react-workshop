@@ -62,7 +62,10 @@ In this example, the `ControlledForm` component manages its own state using the 
 
 Uncontrolled Component Example:
 
-``const UncontrolledForm = () => {   const usernameRef = React.useRef();   const passwordRef = React.useRef();    const handleSubmit = (event) => {     event.preventDefault();     console.log(`Username: ${usernameRef.current.value} Password: ${passwordRef.current.value}`);   };    return (     <form onSubmit={handleSubmit}>       <div>         <label htmlFor="username">Username:</label>         <input type="text" id="username" ref={usernameRef} />       </div>       <div>         <label htmlFor="password">Password:</label>         <input type="password" id="password" ref={passwordRef} />       </div>       <button type="submit">Submit</button>     </form>   ); };``
+```jsx
+
+const UncontrolledForm = () => {   const usernameRef = React.useRef();   const passwordRef = React.useRef();    const handleSubmit = (event) => {     event.preventDefault();     console.log(`Username: ${usernameRef.current.value} Password: ${passwordRef.current.value}`);   };    return (     <form onSubmit={handleSubmit}>       <div>         <label htmlFor="username">Username:</label>         <input type="text" id="username" ref={usernameRef} />       </div>       <div>         <label htmlFor="password">Password:</label>         <input type="password" id="password" ref={passwordRef} />       </div>       <button type="submit">Submit</button>     </form>   ); };
+```
 
 In this example, the `UncontrolledForm` component does not manage its own state and instead relies on the DOM to keep track of the values of the input elements. The component uses the `useRef` hook to create references to the input elements and the `ref` prop to assign the references to the elements. The component also has a `handleSubmit` function that logs the values of the input elements to the console when the form is submitted. The values of the input elements are accessed using the `current` property of the refs.
 
