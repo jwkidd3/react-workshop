@@ -1,5 +1,5 @@
 ---
-description: "You can even make your own hooks! Brian shows how to extract logic out of a component to share a hook across components!"
+description: "You can even make your own hooks!   shows how to extract logic out of a component to share a hook across components!"
 ---
 
 For now, we're going to make a custom hook of our own. Just like `useState` is a hook, there are a few others like `useEffect` (which we'll use in this lesson), `useReducer` (for doing Redux-like reducers), `useRefs` (for when you need to have programmatic access to a DOM node), and `useContext` (for using React's context which we'll do shortly as well.) But like React hooks, we can use these hooks to make our re-usable hooks.

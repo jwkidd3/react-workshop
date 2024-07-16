@@ -1,5 +1,5 @@
 ---
-description: "Class components work a little different from hooks in terms of marshalling state. Brian teaches you how to manage your state using setState and life cycle methods."
+description: "Class components work a little different from hooks in terms of marshalling state.   teaches you how to manage your state using setState and life cycle methods."
 ---
 
 Let's make a nice photo carousel of the pictures for the animal now. We're going to do this using class components which is the "older" way of doing React. It's still fairly common to write components this way and still supported (i.e. not deprecated) so it's useful for you to know how to do it.

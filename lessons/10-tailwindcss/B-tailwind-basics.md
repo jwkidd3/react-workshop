@@ -1,5 +1,5 @@
 ---
-description: "Tailwind CSS works differently than you may expect for styling your page. Brian starts to dig into it with you."
+description: "Tailwind CSS works differently than you may expect for styling your page.   starts to dig into it with you."
 ---
 
 I'm going to need you to suspend everything you know about CSS best practices for this section. At the start this going to feel gross and weird. But stick with me. I initially had similar feelings towards React too.

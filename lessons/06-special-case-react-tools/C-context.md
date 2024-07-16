@@ -1,5 +1,5 @@
 ---
-description: "Context allows you to share state across an entire app. While a powerful feature it has drawbacks which Brian discusses here."
+description: "Context allows you to share state across an entire app. While a powerful feature it has drawbacks which   discusses here."
 ---
 
 What is context? Context is like state, but instead of being confined to a component, it's global to your application. It's application-level state. This is dangerous. Avoid using context until you _have_ to use it. One of React's primary benefit is it makes the flow of data obvious by being explicit. This can make it cumbersome at times but it's worth it because your code stays legible and understandable. Things like context obscure it.

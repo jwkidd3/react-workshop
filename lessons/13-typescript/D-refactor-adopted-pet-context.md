@@ -3,7 +3,7 @@ title: "Refactor Adopted Pet Context"
 path: "/ts-adopted-pet-context"
 order: "13C"
 section: "TypeScript"
-description: "Brian quickly converts AdoptedPetContext.ts"
+description: "  quickly converts AdoptedPetContext.ts"
 ---
 
 Let's quickly do AdoptedPetContext.ts

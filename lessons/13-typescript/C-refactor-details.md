@@ -1,5 +1,5 @@
 ---
-description: "Brian quickly converts Details.tsx"
+description: "  quickly converts Details.tsx"
 ---
 
 Let's go fix another file. Details.tsx. Before we get into the file, make a new file called `APIResponsesTypes.ts`. In there put

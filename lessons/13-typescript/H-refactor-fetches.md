@@ -1,5 +1,5 @@
 ---
-description: "Brian refactors from JavaScript to TypeScript all of the fetching"
+description: "  refactors from JavaScript to TypeScript all of the fetching"
 ---
 
 For fetchPet.ts

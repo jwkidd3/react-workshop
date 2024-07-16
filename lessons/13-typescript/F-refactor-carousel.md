@@ -1,5 +1,5 @@
 ---
-description: "Brian quickly converts Carousel.tsx"
+description: "  quickly converts Carousel.tsx"
 ---
 
 Now that that is done, let's go do Carousel.tsx

@@ -3,7 +3,7 @@ title: "ErrorBoundary"
 path: "/ts-error-boundary"
 order: "13E"
 section: "TypeScript"
-description: "Brian quickly converts ErrorBoundary.tsx"
+description: "  quickly converts ErrorBoundary.tsx"
 ---
 
 Let's go do ErrorBoundary.tsx now

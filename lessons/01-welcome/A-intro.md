@@ -1,9 +1,9 @@
 ---
 title: "Introduction"
-description: "Brian Holt introduces you to himself, the Complete Intro to React version 6, and what you can expect to learn"
+description: "John Kidd introduces you to himself, the Complete Intro to React version 6, and what you can expect to learn"
 ---
 
-Hello! And welcome to the eighth edition of the Complete Intro to React as taught by [Brian Holt][twitter].
+Hello! And welcome to the eighth edition of the Complete Intro to React as taught by [John Kidd][twitter].
 
 ![Cat, dog, and rat logo for the course](./images/course-icon.png)
 
@@ -33,7 +33,7 @@ I write these courses and take care to not make mistakes. However when teaching 
 
 ## Who am I
 
-My name is Brian Holt and I am a product manager at Stripe. I work on all sorts of developer tools like the Stripe VS Code extension, the Stripe CLI, the Stripe SDKs, and other tools developers use to write code for Stripe. Before that I worked on Azure and VS Code at Microsoft as a PM and before that I was JavaScript developer for a decade at companies like LinkedIn, Netflix, Reddit, and some other startups. I've written _a lot_ of React.
+My name is John Kidd and I am a product manager at Stripe. I work on all sorts of developer tools like the Stripe VS Code extension, the Stripe CLI, the Stripe SDKs, and other tools developers use to write code for Stripe. Before that I worked on Azure and VS Code at Microsoft as a PM and before that I was JavaScript developer for a decade at companies like LinkedIn, Netflix, Reddit, and some other startups. I've written _a lot_ of React.
 
 I have been working with React for a long time. [Here's my tweet][tweet] from when I launched Reddit's first instance of React.js from 2014. It's been an invaluable tool for me and one of the few tools that I have been happy to use for nearly seven years now. I'm a big fan and I'm hoping I can show you what makes me so happy to continue to use React.
 

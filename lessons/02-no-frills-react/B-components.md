@@ -1,5 +1,5 @@
 ---
-description: "Brian teaches React without any frills: just you, some JavaScript, and the browser. No build step."
+description: "  teaches React without any frills: just you, some JavaScript, and the browser. No build step."
 ---
 
 Now that we've done that, let's separate this out from a script tag on the DOM to its own script file (best practice.) Make a new file in your `src` directory called `App.js` and cut and paste your code into it.

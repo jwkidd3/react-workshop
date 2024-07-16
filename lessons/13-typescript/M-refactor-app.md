@@ -1,5 +1,5 @@
 ---
-description: "Brian quickly converts App.tsx and wraps up"
+description: "  quickly converts App.tsx and wraps up"
 ---
 
 Lastly, let's do App.tsx.

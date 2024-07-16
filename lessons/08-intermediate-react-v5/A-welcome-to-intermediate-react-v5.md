@@ -1,9 +1,9 @@
 ---
 title: "Welcome to Intermediate React v5"
-description: "Brian introduces you to Intermediate React v5 and explains how the course is structured."
+description: "  introduces you to Intermediate React v5 and explains how the course is structured."
 ---
 
-Welcome to Intermediate React v5 as taught by Brian Holt
+Welcome to Intermediate React v5 as taught by John Kidd
 
 If you haven't yet, read the [intro page][intro] as it explains well who I am, why I'm teaching this course, and what my background is.
 

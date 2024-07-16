@@ -1,5 +1,5 @@
 ---
-description: "Lastly, Brian helps you redo the Pet component with Tailwind CSS to show how you can do easy reposition of elements."
+description: "Lastly,   helps you redo the Pet component with Tailwind CSS to show how you can do easy reposition of elements."
 ---
 
 Let's make Pet.jsx look great with a nice little overlay of their name, animal, breed, and location. Replace the returned markup with:

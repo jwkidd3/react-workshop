@@ -1,5 +1,5 @@
 ---
-description: "Setting up a build process has historically been a big barrier to entry for most developers. Brian shows you how to set up Vite which makes the whole process a breeze."
+description: "Setting up a build process has historically been a big barrier to entry for most developers.   shows you how to set up Vite which makes the whole process a breeze."
 ---
 
 The build tool we are going to be using today is called [Vite][vite]. Vite (pronounced "veet", meaning quick in French) is a tool put out by the Vue team that ultimately ends up wrapping [Rollup][rollup] which does the actual bundling. The end result is a tool that is both easy to use and produces a great end result.

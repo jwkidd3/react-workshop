@@ -1,5 +1,5 @@
 ---
-description: "Brian teaches you to set up the latest hotness in CSS for large scale projects, Tailwind CSS."
+description: "  teaches you to set up the latest hotness in CSS for large scale projects, Tailwind CSS."
 title: "CSS and React"
 ---
 

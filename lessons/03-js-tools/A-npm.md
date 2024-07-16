@@ -1,6 +1,6 @@
 ---
 title: "npm"
-description: "When putting any sort of JavaScript project together, npm is an essential tool. Brian talks about how to get started with npm."
+description: "When putting any sort of JavaScript project together, npm is an essential tool.   talks about how to get started with npm."
 ---
 
 ## npm
