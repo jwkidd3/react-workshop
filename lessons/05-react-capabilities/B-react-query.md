@@ -2,11 +2,6 @@
 description: ""
 title: "react-query"
 ---
-
-As we saw in the [Effects lesson](/core-react-concepts/effects) React has the ability to render, make a request to an async data source (like an API), and then re-render after the new data comes in. `useEffect` accomplishes this goal precisely.
-
-However, take it from me, when you start having a _lot_ of effects in an app, it quickly can get unruly of what effect is happening when and performance can also begin to suffer when effects start happening in a rapid succession. It's possible to manage, just can be hard to wrap your mind around.
-
 Here I am going to teach you a library called [@tanstack/react-query][react-query].
 
 ```bash
@@ -153,6 +148,5 @@ Nearly all the same concepts at play, just a little different to handle the fact
 
 > 🏁 [Click here to see the state of the project up until now: 09-react-query][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/09-react-query
 [react-query]: https://tanstack.com/query/v4
 [mutations]: https://tanstack.com/query/v4/docs/guides/mutations

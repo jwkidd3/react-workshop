@@ -101,6 +101,3 @@ That's it for context! Something like shopping carts, theming, or logged-in user
 
 > 🏁 [Click here to see the state of the project up until now: 14-context][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/14-context
-[v4]: https://btholt.github.io/complete-intro-to-react-v4/context
-[v7]: https://btholt.github.io/complete-intro-to-react-v7/lessons/special-case-react-tools/context

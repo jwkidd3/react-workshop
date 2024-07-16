@@ -71,6 +71,3 @@ setRequestParams(obj);
 
 There you go! Now our app is totally powered by react-query and no more effects in the App. I showed you how to write useEffect because it is a critical tool to know how to use with React and central to it, but I wanted to show you how to write it and then refactor it out later.
 
-> 🏁 [Click here to see the state of the project up until now: 10-uncontrolled-forms][step]
-
-[step]: https://github.com/btholt/citr-v8-project/tree/master/10-uncontrolled-forms

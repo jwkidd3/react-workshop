@@ -2,7 +2,7 @@
 description: ""
 ---
 
-> Please start with a fresh copy of this app: [Adopt Me!][app]
+> Please start with a fresh copy of this app: [Adopt Me!]
 
 Redux is a well-known library that does state management for you, very similarly to how we used context. With context, you use the provider and consumer as a sort of portal to skip passing parameters through every component. With Redux, we're taking the state management _out_ of React entirely and moving it to a separate store.
 
@@ -161,4 +161,4 @@ That's it! You give `useSelector` a function that takes in the entire state tree
 
 Again, this is all fairly similar to Context but it definitely has its upsides. Slices are easy to test. And it externalize React's app state management from React itself. This means you can treat state mutation separately from UI which is generally a good thing. RTK made this much more palatable.
 
-[app]: https://github.com/btholt/citr-v8-project/tree/master/14-context
+[

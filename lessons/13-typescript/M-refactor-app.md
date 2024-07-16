@@ -43,4 +43,3 @@ Congrats! You finished TypeScript.
 
 > 🏁 [Click here to see the state of the project up until now: typescript-4][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/typescript-4

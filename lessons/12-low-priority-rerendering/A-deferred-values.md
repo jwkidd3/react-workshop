@@ -2,7 +2,7 @@
 description: ""
 ---
 
-> Please start with a fresh copy of this app: [Adopt Me!][app]
+> Please start with a fresh copy of this app: [Adopt Me!]
 
 Like I have said before in this class, many of React's newest features are for _Facebook's_ problems, not yours. When you are rendering a page like the feed of facebook.com you have a myriad of issues that normal people don't have.
 
@@ -45,4 +45,4 @@ const renderedPets = useMemo(
 
 That's really it. The idea here is you have some part of your app that when it re-renders it causes jank in other parts of your app and it can be slowed down a bit without issue. `useDeferredValue` is exactly for that.
 
-[app]: https://github.com/btholt/citr-v8-project/tree/master/14-context
+[

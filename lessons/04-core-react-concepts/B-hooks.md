@@ -1,5 +1,5 @@
 ---
-description: "React manages view state through a mechanism called hooks.   teaches you how to use them as you build components."
+description: "React manages view state through a mechanism called hooks. "
 ---
 
 Now we want to make it so you can modify what your search parameters are. Let's make a new route called SearchParams.jsx and have it accept these search parameters.

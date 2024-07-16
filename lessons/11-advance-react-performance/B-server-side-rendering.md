@@ -2,7 +2,7 @@
 section: "Server Side Rendering"
 ---
 
-> Please start with a fresh copy of this app: [Adopt Me!][app]
+> Please start with a fresh copy of this app: [Adopt Me!]
 
 Performance is a central concern for front end developers. We should always be striving to serve the leanest web apps that perform faster than humans can think. This is as much a game of psychology as it is a a technological challenge. It's a challenge of loading the correct content first so a user can see a site and begin to make a decision of what they want to do (scroll down, click a button, log in, etc.) and then be prepared for that action before they make that decision.
 
@@ -187,8 +187,4 @@ A lot of code, but it'd work too! As an exercise, this would be great for you to
 
 Make sure you add `dist/` to your .gitignore here. We don't want to commit built code.
 
-> 🏁 [Click here to see the state of the project up until now: server-side-rendering][step]
-
-[step]: https://github.com/btholt/citr-v8-project/tree/master/server-side-rendering
-[app]: https://github.com/btholt/citr-v8-project/tree/master/14-context
 [data]: https://tanstack.com/query/v4/docs/guides/ssr#using-initialdata

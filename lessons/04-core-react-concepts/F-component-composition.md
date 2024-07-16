@@ -1,5 +1,5 @@
 ---
-description: "One component should do one thing.   shows you how to break down bigger components into smaller components."
+description: "One component should do one thing."
 ---
 
 Our SearchParams component is getting pretty big and doing a lot of heavy lifting. This is against the React way: in general we want small-ish (use your best judgment but lean towards smaller when you have a choice) components that do one thing. When we start having a ballooning component like we do here, take your larger component and break it down into smaller components.

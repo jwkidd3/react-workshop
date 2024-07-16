@@ -1,6 +1,4 @@
 ---
-description: "  talks about his favorite JS tool, Prettier, a tool that that helps you maintain consistent code style with no work on the dev's part."
----
 
 ## Code Quality
 

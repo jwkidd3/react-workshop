@@ -63,7 +63,6 @@ export default function DetailsErrorBoundary(props) {
 
 > 🏁 [Click here to see the state of the project up until now: 12-error-boundaries][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/12-error-boundaries
 [sentry]: https://sentry.io/
 [trackjs]: https://trackjs.com/
 [dry]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself

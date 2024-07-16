@@ -2,7 +2,7 @@
 section: "Code Splitting"
 ---
 
-> Please start with a fresh copy of this app: [Adopt Me!][app]
+> Please start with a fresh copy of this app: [Adopt Me!]
 
 Code splitting is _essential_ to having small application sizes, particularly with React. [React is already forty-ish kilobytes][bundle] just for the framework. This isn't huge but it's enough that it will slow down your initial page loads (by up to a second and a half on 2G speeds.) If you have a lot third party libraries on top of that, you've sunk yourself before they've even started loading your page.
 
@@ -55,6 +55,5 @@ const Modal = lazy(() => import("./Modal"));
 
 > 🏁 [Click here to see the state of the project up until now: code-splitting][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/code-splitting
-[app]: https://github.com/btholt/citr-v8-project/tree/master/14-context
+
 [bundle]: https://bundlephobia.com/package/react-dom@18.2.0

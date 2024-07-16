@@ -1,5 +1,5 @@
 ---
-description: "Tailwind CSS has the ability to add plugins to augment its functionality.   helps you add the most common plugin, the one for forms."
+description: "Tailwind CSS has the ability to add plugins to augment its functionality. "
 ---
 
 Our inputs look really gross. We could write our own components (basically reusable CSS classes, what a novel idea) but we're just going to use the good ones that Tailwind provides out of the box.

@@ -2,8 +2,6 @@
 description: "react-router is phenomenal tool is that allows you to manage browser navigation state in a very React way."
 ---
 
-> In previous versions of this course, I've taught various versions of [React Router][rr] as well as [Reach Router][reach]. It's all written by the same folks (same great people behind [Remix][remix]) but suffice to say it's a bit of a moving target. It's great software and you'll be well served by any of them. This course uses React Router v6.
-
 React Router is by far the most popular client side router in the React community. It is mature, being used by big companies, and battle tested at large scales. It also has a lot of really cool capabilities, some of which we'll examine here.
 
 What we want to do now is to add a second page to our application: a Details page where you can out more about each animal.

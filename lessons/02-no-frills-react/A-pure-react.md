@@ -1,6 +1,4 @@
 ---
-description: "Brian teaches React without any frills: just you, some JavaScript, and the browser. No build step."
----
 
 Let's start by writing pure React. No compile step. No JSX. No Babel. No Webpack or Parcel. Just some JavaScript on a page.
 
@@ -34,7 +32,7 @@ Let's start your project. Create your project directory. I'm going to call mine 
 
 Now open this file in your browser. On Mac, hit ⌘ (command) + O in your favorite browser, and on Windows and Linux hit CTRL + O to open the Open prompt. Navigate to wherever you saved the file and open it. You should see a line of text saying "not rendered".
 
-- Pretty standard HTML5 document. If this is confusing, I teach another course called [Intro to Web Dev][webdev] that can help you out.
+- Pretty standard HTML5 document. 
 - We're adding a root div. We'll render our React app here in a sec. It doesn't _have_ to be called root, just a common practice.
 - We have two script tags.
   - The first is the React library. This library is the interface of how to interact with React; all the methods (except one) will be via this library. It contains no way of rendering itself though; it's just the API.
@@ -73,5 +71,3 @@ This is about the simplest React app you can build.
 
 > ReactDOM.createRoot is a new API as of React v18. The old `ReactDOM.render` is still available (and deprecated) but it'll render your app in "legacy" mode which won't use all the fun new features packed into React v18
 
-[webdev]: https://frontendmasters.com/courses/web-development-v3/
-[style]: https://raw.githubusercontent.com/btholt/citr-v8-project/master/01-no-frills-react/src/style.css

@@ -63,4 +63,3 @@ Here we're explicitly making sure our string key is an Animal type and therefore
 
 > 🏁 [Click here to see the state of the project up until now: typescript-3][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/typescript-3

@@ -19,6 +19,6 @@ c8 use Node.js's built-in code coverage capabilities to run your tests which mak
 
 > 🏁 [Click here to see the state of the project up until now: testing][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/testing
+
 [istanbul]: https://istanbul.js.org/
 [c8]: https://github.com/bcoe/c8

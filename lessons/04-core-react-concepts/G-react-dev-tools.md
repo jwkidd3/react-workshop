@@ -1,5 +1,5 @@
 ---
-description: "An essential tool in any React developer's toolbox is the official React Dev Tools extension.   shows you how to install and use them."
+description: "An essential tool in any React developer's toolbox is the official React Dev Tools extension.  "
 ---
 
 React has some really great tools to enhance your developer experience. We'll go over a few of them here.

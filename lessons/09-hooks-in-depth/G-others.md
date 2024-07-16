@@ -38,4 +38,3 @@ Like above, this hook was made for use with libraries. In this case, an insertio
 
 Mostly insertion effects are for CSS-in-JS libraries like Emotion and styled-components. You as an app dev should not really have a use for it.
 
-[citr]: /lessons/core-react-concepts/custom-hooks

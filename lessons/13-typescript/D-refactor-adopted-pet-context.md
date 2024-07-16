@@ -36,4 +36,3 @@ export default AdoptedPetContext;
 
 > 🏁 [Click here to see the state of the project up until now: typescript-1][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/typescript-1

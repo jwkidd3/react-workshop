@@ -59,4 +59,3 @@ This will now make sure React marks this as a low priority transition and preven
 
 > 🏁 [Click here to see the state of the project up until now: transitions][step]
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/transitions

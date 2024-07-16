@@ -168,4 +168,3 @@ You should commit snapshot files to git.
 
 I'll let it up to you how much you value these tests. I think they have a very limited place in UI testing but it's pretty low level of help. Frequently they become more noise than help. In any case, keep them in your toolbox, some times they can be helpful.
 
-[fem]: https://frontendmasters.com/courses/intermediate-react-v4/snapshots/
