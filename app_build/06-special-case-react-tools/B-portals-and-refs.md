@@ -76,7 +76,3 @@ Notice that despite we're rendering a whole different part of the DOM we're stil
 We'll add a "yes" function here in the next lesson
 
 That's it! That's how you make a modal using a portal in React. This used to be significantly more difficult to do but with portals it became trivial. The nice thing about portals is that despite the actual elements being in different DOM trees, these are in the same React trees, so you can do event bubbling up from the modal. Some times this is useful if you want to make your Modal more flexible (like we did.)
-
-> 🏁 [Click here to see the state of the project up until now: 13-portals-and-refs][step]
-
-[portal]: https://reactjs.org/docs/portals.html
