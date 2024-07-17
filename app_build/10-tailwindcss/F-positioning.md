@@ -23,6 +23,3 @@ Let's make Pet.jsx look great with a nice little overlay of their name, animal, 
 - `pr-2 pt-2` is a little right and top padding to extend the gradient.
 
 > 🚨 We did not do Details.jsx. I leave this as an exercise to you!
-
-> 🏁 [Click here to see the state of the project up until now: tailwindcss][step]
-
