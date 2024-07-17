@@ -78,9 +78,7 @@ Now let's set up our scripts to start Vite. In package.json, put:
 
 There are a myriad of fantastic developer tools out there available. We chose Vite because the industry has been using it for a while but I have zero problem with you selecting other tools. Just trying to expose everyone to great tools.
 
-> 🏁 [Click here to see the state of the project up until now: 02-js-tools][step].
 
-[step]: https://github.com/btholt/citr-v8-project/tree/master/02-js-tools
 [webpack]: https://webpack.js.org/
 [parcel]: https://parceljs.org/
 [rollup]: https://www.rollupjs.org/
