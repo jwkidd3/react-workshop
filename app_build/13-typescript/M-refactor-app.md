@@ -40,6 +40,3 @@ However, now that we're playing TypeScript land, this code would be joyous to wo
 Last thing, let's add a type check to our package.json just in case someone isn't using a type checking editor. Add `"typecheck": "tsc --noEmit"` to your package.json. This is also useful CI scenarios.
 
 Congrats! You finished TypeScript.
-
-> 🏁 [Click here to see the state of the project up until now: typescript-4][step]
-
