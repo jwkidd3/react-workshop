@@ -98,6 +98,3 @@ const [adoptedPet] = useContext(AdoptedPetContext);
 - Consuming context from a class component is more verbose. [See v7 of this course][v7] to see that if you're interested. Instead of doing a pet to adopt, we did theming.
 
 That's it for context! Something like shopping carts, theming, or logged-in user data would be perfect for context. It's for app-level data. Everything else should be boring-ol' state.
-
-> 🏁 [Click here to see the state of the project up until now: 14-context][step]
-
