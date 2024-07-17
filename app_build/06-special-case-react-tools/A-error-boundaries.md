@@ -60,9 +60,3 @@ export default function DetailsErrorBoundary(props) {
 
 - Now this is totally self contained. No one rendering Details has to know that it has its own error boundary. I'll let you decide if you like this pattern or if you would have preferred doing this in App.js at the Router level. Differing opinions exist.
 - We totally could have made ErrorBoundary a bit more flexible and made it able to accept a component to display in cases of errors. In general I recommend the "WET" code rule (as opposed to [DRY][dry], lol): Write Everything Twice (or I even prefer Write Everything Thrice). In this case, we have one use case for this component, so I won't spend the extra time to make it flexible. If I used it again, I'd make it work for both of those use cases, but not _every_ use case. On the third or fourth time, I'd then go back and invest the time to make it flexible.
-
-> 🏁 [Click here to see the state of the project up until now: 12-error-boundaries][step]
-
-[sentry]: https://sentry.io/
-[trackjs]: https://trackjs.com/
-[dry]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
