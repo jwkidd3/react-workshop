@@ -44,5 +44,3 @@ const renderedPets = useMemo(
 - We then need to _use_ that cached version. So we use `useMemo` to make a version of the component that can be used and won't change until the deferredPets value changes (otherwise it'll just re-render every time anyway)
 
 That's really it. The idea here is you have some part of your app that when it re-renders it causes jank in other parts of your app and it can be slowed down a bit without issue. `useDeferredValue` is exactly for that.
-
-[
