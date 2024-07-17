@@ -33,6 +33,3 @@ export default AdoptedPetContext;
 - We're telling it that this function will accept a Pet which TypeScript will enforce for us later.
 - You have to give it a default value so we gave it a `useState` shaped response with a default Pet object. This would be useful if you wanted to run unit tests with context.
 - Not all type errors are fixed yet since some of the imports are broken. That's expected.
-
-> 🏁 [Click here to see the state of the project up until now: typescript-1][step]
-
