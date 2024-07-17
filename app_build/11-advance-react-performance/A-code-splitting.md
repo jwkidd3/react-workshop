@@ -53,7 +53,5 @@ const Modal = lazy(() => import("./Modal"));
 - This cut out like 1KB, but the point to understand here is you can split places other than routes. Anywhere you're not using code upfront you can split and load later.
 - Notice we didn't have to use `<Suspense>` again. We already have a suspense component at the top of the app and so that still works!
 
-> 🏁 [Click here to see the state of the project up until now: code-splitting][step]
-
 
 [bundle]: https://bundlephobia.com/package/react-dom@18.2.0
