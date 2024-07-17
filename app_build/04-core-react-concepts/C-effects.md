@@ -44,6 +44,3 @@ async function requestPets() {
 - We could solve this by moving the requestPets function inside the effect and rely on React to call the fetch upon effect. This strategy would mean any time a user types in the location (and thus calls setState on the location) it'd request from the API. This could work for you but for now we'll retain more control and just do it on submit events. It's all about managing when those effects go off. For now we just want this effect run once at the beginning and then not again.
 - At the end, we gather take the pets we got back from the API and create Pet components out of each of them.
 
-> 🏁 [Click here to see the state of the project up until now: 05-useeffect][step]
-
-[step]: https://github.com/btholt/citr-v8-project/tree/master/05-useeffect
