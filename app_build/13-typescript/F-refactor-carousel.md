@@ -34,6 +34,3 @@ handleIndexClick = (event: MouseEvent<HTMLElement>) => {
 - We need to type the event type coming back from the DOM. We know it'll come from an HTML element, and we have to make sure it's not a generic window event. TypeScript forces a lot of this defensive programming.
 
 Carousel is done.
-
-> 🏁 [Click here to see the state of the project up until now: typescript-2][step]
-
