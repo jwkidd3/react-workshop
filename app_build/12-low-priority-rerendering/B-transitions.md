@@ -57,5 +57,3 @@ This will now make sure React marks this as a low priority transition and preven
 
 > A good way to keep useTransition straight versus useDeferredValue and when to use either. For useTransition, you are telling React "hey, I have a new thing to give you but it's low priority". It's proactive. You are starting that process explicitly with the startTransition function. useDeferredValue is more reactive. It's saying to React "hey, when you get a new value here, it's low priority so you can take your time."
 
-> 🏁 [Click here to see the state of the project up until now: transitions][step]
-
