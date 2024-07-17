@@ -136,8 +136,6 @@ This particular configuration has a lot of rules to help you quickly catch commo
 
 Now your project should pass lint.
 
-> 🏁 [Click here to see the state of the project up until now: 03-jsx][step]
-
 [airbnb]: https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
 [standard]: https://standardjs.com/
 [step]: https://github.com/btholt/citr-v8-project/tree/master/03-jsx
