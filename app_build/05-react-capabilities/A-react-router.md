@@ -89,12 +89,3 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 > If you're getting a useHref error, make sure your `header` is _inside_ `<BrowserRouter>`
 
 Now if you click the header, it'll take you back to the Results page. Cool. Now let's round out the Details page.
-
-> 🏁 [Click here to see the state of the project up until now: 08-react-router][step]
-
-[rr]: https://reacttraining.com/react-router/
-[reach]: https://reach.tech/router/
-[rf]: https://twitter.com/ryanflorence
-[step]: https://github.com/btholt/citr-v8-project/tree/master/08-react-router
-[remix]: https://remix.run
-[element]: https://reactrouter.com/en/6.6.1/upgrading/v5#advantages-of-route-element
