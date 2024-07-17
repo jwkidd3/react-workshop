@@ -152,7 +152,7 @@ Let's make a second dropdown so you can select a breed as well as an animal.
 
 So now we have a breed dropdown. The only really new thing we did was use the `disabled` property to disable the dropdown when you don't have any breeds. We're going to use the API to request breeds based on the animal selected. If you select `dog`, you want to see poodles, labradors, and chihuahuas not parrots, tabbies, and Maine coons. The API has an endpoint, if you give it a valid animal. We'll show you how to do that in the next lesson with effects.
 
-> 🏁 [Click here to see the state of the project up until now: 04-hooks][step]
+
 
 [babel]: https://babeljs.io/
 [step]: https://github.com/btholt/citr-v8-project/tree/master/04-hooks
