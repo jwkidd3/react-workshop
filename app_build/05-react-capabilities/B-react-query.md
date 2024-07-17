@@ -145,8 +145,3 @@ In this class we're just looking at fetching data from the server. These can be 
 [See the documentation here][mutations].
 
 Nearly all the same concepts at play, just a little different to handle the fact you're POSTing data to a server.
-
-> 🏁 [Click here to see the state of the project up until now: 09-react-query][step]
-
-[react-query]: https://tanstack.com/query/v4
-[mutations]: https://tanstack.com/query/v4/docs/guides/mutations
