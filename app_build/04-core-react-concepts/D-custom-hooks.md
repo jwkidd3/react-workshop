@@ -60,6 +60,3 @@ const [breeds] = useBreedList(animal);
 
 That should be enough! Now you should have breeds being populated every time you change animal! (Do note we haven't implemented the submit button yet though.)
 
-> 🏁 [Click here to see the state of the project up until now: 06-custom-hooks][step]
-
-[step]: https://github.com/btholt/citr-v8-project/tree/master/06-custom-hooks
